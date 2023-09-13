@@ -62,3 +62,5 @@ This is a discovery workstream based on complaints around old products/code, sta
 5. Propose a solution that can show incremental value against the above findings
 6. Propose technologies, if needed, that would work in concert with the organization's existing tooling and their future business objectives.
 7. Propose ways that we can help against the above findings (additional workstreams, devs, organizational change, etc)
+
+A sample architecture for an engineering platform and it's touchpoints with other platforms/tools that wouldwork as we modernize and migrate the monolith has been included.
