@@ -16,7 +16,7 @@
   - Owner, ITSM
   - Owner, Tools
 
-## Liatrio
+## Consultancy
 ### LT / Governance
 - Tech Principal
 - Product Owner
